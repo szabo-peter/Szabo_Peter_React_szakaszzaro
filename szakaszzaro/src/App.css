@@ -1,0 +1,13 @@
+.kozep{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.megjelenik:hover{
+    display: inline;
+}
+
+.megjelenik{
+    display: none;
+}
